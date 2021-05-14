@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background: url("../images/pali.jpg");
+    align-items:center;
+}
+
+.contenedor {
+    background: rgba(183, 192, 50, 0.956);
+    margin: 190px 20%;
+    padding: 30px;
+    color: rgb(71, 68, 68);
+    font-size: 25px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+h1, label, input{
+    margin: 25px;
+}
+
+button, input{
+    padding: 10px;
+}
+
+button{
+    background: rgb(246, 25, 17);
+    color: white;
+    font-size: 20px;
+}
+
+h3{
+    color: rgb(149, 17, 39);
+}
